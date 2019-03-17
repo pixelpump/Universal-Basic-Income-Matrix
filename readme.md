@@ -12,11 +12,19 @@ What to do with this information.How to use it effectively
 ### Q&R Questions and Responses
 
 <details>
-<summary>People will get lazy</summary>
+<summary>People will get lazy.</summary>
 ```
-No they won't
+No they won't. People don't work that way.
 ```
 </details>
+
+<details>
+<summary>It will be too expensive</summary>
+```
+It's less expansive than the alternatives
+```
+</details>
+
 
 ### Installing
 
