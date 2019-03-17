@@ -12,7 +12,7 @@ What to do with this information. How to use it effectively
 ### Q&R Questions and Responses
 
 <details>
-  <span style=“color:green;”><summary> <b> People will get lazy.</b></summary></span>
+  <summary> <b> People will get lazy.</b></summary>
 
 <br>
 
