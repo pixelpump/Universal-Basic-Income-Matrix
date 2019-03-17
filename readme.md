@@ -11,25 +11,25 @@ What to do with this information. How to use it effectively
 
 ### Q&R Questions and Responses
 
+
+
 <details>
   <summary> <b> People will get lazy.</b></summary>
-
-<br>
-
+---
   No they won't. People don't work that way.
-  
-  ---
-
+---
 </details>
+
+
 
 <details>
   <summary> <b> It will be too expensive </b></summary>
-  
-  <br>
-
-It's less expansive than the alternatives
-
+ ---
+ It's less expansive than the alternatives
+---
 </details>
+
+
 
 
 
