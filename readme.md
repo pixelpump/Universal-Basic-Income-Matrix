@@ -1,6 +1,6 @@
 
 
-# Universal Basic Income 
+# Universal Basic Income Information Matrix
 
 
 One Paragraph of project description goes here... what to do with this information.
