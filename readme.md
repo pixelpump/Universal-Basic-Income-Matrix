@@ -15,11 +15,13 @@ What to do with this information. How to use it effectively
 
 <details>
   <summary> <b> People will get lazy.</b></summary>
+
 ---
   
   No they won't. People don't work that way.
 
 ---
+
   </details>
 
 
