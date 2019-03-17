@@ -3,19 +3,20 @@
 # Universal Basic Income 
 
 
-One Paragraph of project description goes here
+One Paragraph of project description goes here... what to do with this information.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+What to do with this information.How to use it effectively
 
-### Prerequisites
+### Q&R Questions and Responses
 
-What things you need to install the software and how to install them
-
+<details>
+<summary>People will get lazy</summary>
 ```
-Give examples
+No they won't
 ```
+</details>
 
 ### Installing
 
