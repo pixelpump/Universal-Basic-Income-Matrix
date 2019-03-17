@@ -20,9 +20,9 @@ No they won't. People don't work that way.
 
 <details>
 <summary>It will be too expensive</summary>
-```
+
 It's less expansive than the alternatives
-```
+
 </details>
 
 
