@@ -12,7 +12,7 @@ What to do with this information. How to use it effectively
 ### Q&R Questions and Responses
 
 <details>
-## <summary> People will get lazy.</summary>
+<summary> **People will get lazy.</summary>
 
 <br>
 
