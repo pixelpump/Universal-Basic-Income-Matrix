@@ -34,13 +34,13 @@ It's less expansive than the alternatives
 
 ## Usefull Links
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [UBI on Wikipedia](https://en.wikipedia.org/wiki/Basic_income) - The basics from Wikipedia
+* [BIEN](https://basicincome.org/basic-income/) - Basic Income Earth Netwok
+* [Andrew Yang ](https://www.yang2020.com/what-is-ubi/) -  Presidential Candidate running on a platform of a UBI.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting changes to this document.
 
 ## Versioning
 
