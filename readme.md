@@ -17,6 +17,8 @@ What to do with this information. How to use it effectively
 <br>
 
   No they won't. People don't work that way.
+  
+  ---
 
 </details>
 
