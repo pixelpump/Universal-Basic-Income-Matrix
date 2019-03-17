@@ -21,7 +21,7 @@ What to do with this information. How to use it effectively
 </details>
 
 <details>
-<summary>## It will be too expensive</summary>
+  <summary> <b> It will be too expensive </b></summary>
   
   <br>
 
