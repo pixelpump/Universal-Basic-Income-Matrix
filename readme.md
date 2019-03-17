@@ -7,15 +7,16 @@ One Paragraph of project description goes here... what to do with this informati
 
 ## Getting Started
 
-What to do with this information.How to use it effectively
+What to do with this information. How to use it effectively
 
 ### Q&R Questions and Responses
 
 <details>
 <summary>People will get lazy.</summary>
-```
-No they won't. People don't work that way.
-```
+
+<br>
+  No they won't. People don't work that way.
+
 </details>
 
 <details>
