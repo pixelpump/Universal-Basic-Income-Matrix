@@ -22,6 +22,9 @@ Motivation is a tricky thing but something that has been studied quite extensive
 
 ![Maslow’s Hierarchy of Needs — Wikimedia Commons](https://cdn-images-1.medium.com/max/800/0*fssc9tSDEq5pmH8G.png)
 
+####Further Reading
+https://medium.com/basic-income/if-we-no-longer-force-people-to-work-to-meet-their-basic-needs-won-t-they-stop-working-3996442b7585
+
 ---
 
   </details>
