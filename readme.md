@@ -34,7 +34,9 @@ Motivation is a tricky thing but something that has been studied quite extensive
 
 <details>
   <summary> <b> It will be too expensive! </b></summary>
+  
  ---
+ 
 The cost od a universal basic income is not a simple calculation of adding up all the people and tehn multiplying it by the proposed payment. Although the intent of UBI is that it is given to everyone, not everyone keeps it, only those who are deemed to need it. There are many simple ways to build this into a UBI program; a negative tax, or a tax clawback to name just two. Also, UBI would replace many existing programs intended to mitigate poverty.The numbers work out. 
   
 <b>Further reading on the subject</b><br>
