@@ -37,7 +37,7 @@ Motivation is a tricky thing but something that has been studied quite extensive
   
  ---
  
-The cost od a universal basic income is not a simple calculation of adding up all the people and tehn multiplying it by the proposed payment. Although the intent of UBI is that it is given to everyone, not everyone keeps it, only those who are deemed to need it. There are many simple ways to build this into a UBI program; a negative tax, or a tax clawback to name just two. Also, UBI would replace many existing programs intended to mitigate poverty.The numbers work out. 
+The cost od a universal basic income is not a simple calculation of adding up all the people and then multiplying it by the proposed payment. Although the intent of UBI is that it is given to everyone, not everyone keeps it, only those who are deemed to need it. There are many simple ways to build this into a UBI program; a negative tax, or a tax clawback to name just two. Also, UBI would replace many existing programs intended to mitigate poverty.The numbers work out. 
   
 <b>Further reading on the subject</b><br>
 [“The Cost of Universal Basic Income is the Net Transfer Amount, Not the Gross Price Tag”](http://www.scottsantens.com/the-cost-of-universal-basic-income-is-the-net-transfer-amount-not-the-gross-price-tag)
