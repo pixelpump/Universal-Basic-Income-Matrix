@@ -14,11 +14,13 @@ What to do with this information. How to use it effectively
 
 
 <details>
-  <summary> <b> People will get lazy.</b></summary>
+  <summary> <b> People will get lazy or stop working.</b></summary>
 
 ---
   
-  No they won't. People don't work that way.
+Motivation is a tricky thing but something that has been studied quite extensively. Imagine your mother cooks you your favorite meal because she loves you, and after, to thank her, you put a $50 bill on the table. No one would ever actually do that, right? Why? Because her motivation for the meal was not extrinsic in motivation. Paying her might even lead to her never wanting to cook for you again. The takeaway is that motivations are not always driven by money - they can be to a point, certainly, but beyond survival and basic needs, people act for different reasons. 
+
+![Maslow’s Hierarchy of Needs — Wikimedia Commons](https://cdn-images-1.medium.com/max/800/0*fssc9tSDEq5pmH8G.png)
 
 ---
 
